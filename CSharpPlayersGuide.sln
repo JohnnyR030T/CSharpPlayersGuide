@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_TheMakingsOfAProgrammer",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_TheThingNamer3000", "5_TheThingNamer3000\5_TheThingNamer3000.csproj", "{82D82EDE-5D63-402D-A0B6-C5BD3C7A8B11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_TheVariableShop", "TheVariableShop\6_TheVariableShop.csproj", "{BB08E7A8-4E2A-4C48-8523-13DF354C93B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_TheVariableShopReturns", "7_TheVariableShopReturns\7_TheVariableShopReturns.csproj", "{B5EA7669-990C-4C45-B19B-DB57334D7E63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{82D82EDE-5D63-402D-A0B6-C5BD3C7A8B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82D82EDE-5D63-402D-A0B6-C5BD3C7A8B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82D82EDE-5D63-402D-A0B6-C5BD3C7A8B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB08E7A8-4E2A-4C48-8523-13DF354C93B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB08E7A8-4E2A-4C48-8523-13DF354C93B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB08E7A8-4E2A-4C48-8523-13DF354C93B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB08E7A8-4E2A-4C48-8523-13DF354C93B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EA7669-990C-4C45-B19B-DB57334D7E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EA7669-990C-4C45-B19B-DB57334D7E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EA7669-990C-4C45-B19B-DB57334D7E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EA7669-990C-4C45-B19B-DB57334D7E63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
