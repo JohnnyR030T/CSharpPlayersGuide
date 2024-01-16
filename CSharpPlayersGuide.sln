@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_TheThingNamer3000", "05_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_TheFourSistersAndTheDuckbear", "09_TheFourSistersAndTheDuckbear\09_TheFourSistersAndTheDuckbear.csproj", "{80F526F2-420F-42B2-868C-82FB9CAF81AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_TheDominionOfKings", "10_TheDominionOfKings\10_TheDominionOfKings.csproj", "{0897CD59-4ACC-4125-B3B3-30AD001C73B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{80F526F2-420F-42B2-868C-82FB9CAF81AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F526F2-420F-42B2-868C-82FB9CAF81AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F526F2-420F-42B2-868C-82FB9CAF81AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0897CD59-4ACC-4125-B3B3-30AD001C73B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0897CD59-4ACC-4125-B3B3-30AD001C73B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0897CD59-4ACC-4125-B3B3-30AD001C73B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0897CD59-4ACC-4125-B3B3-30AD001C73B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
