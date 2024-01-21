@@ -26,7 +26,8 @@ response = choice switch
     5 => "Machette costs 20 gold",
     6 => "Canoe costs 200 gold",
     7 => "Food Supplies cost 2 gold",
-    8 => "Goodbye..."
+    8 => "Goodbye...",
+    _ => "Invalid choice" // This is the default case that will be used if none of the other cases match
 };
 
 Console.WriteLine(response);
