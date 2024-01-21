@@ -3,27 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_HelloWorld", "01_HelloWorld\01_HelloWorld.csproj", "{67143513-FCC7-4192-9DB3-E6B4C0797D91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_HelloWorld", "01_HelloWorld\01_HelloWorld.csproj", "{67143513-FCC7-4192-9DB3-E6B4C0797D91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_WhatComesNext", "02_WhatComesNext\02_WhatComesNext.csproj", "{7BA2D3B1-5617-4F97-BD9C-B8CFD4A6B84B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_WhatComesNext", "02_WhatComesNext\02_WhatComesNext.csproj", "{7BA2D3B1-5617-4F97-BD9C-B8CFD4A6B84B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_TheMakingsOfAProgrammer", "03_TheMakingsOfAProgrammer\03_TheMakingsOfAProgrammer.csproj", "{4E0A0EAE-F280-4E4C-82AE-F7474BE64373}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_TheMakingsOfAProgrammer", "03_TheMakingsOfAProgrammer\03_TheMakingsOfAProgrammer.csproj", "{4E0A0EAE-F280-4E4C-82AE-F7474BE64373}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_ConsolasAndTelim", "04_ConsolasAndTelim\04_ConsolasAndTelim.csproj", "{AD9DF29D-C92E-484C-94BC-D5599DF8AEFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_ConsolasAndTelim", "04_ConsolasAndTelim\04_ConsolasAndTelim.csproj", "{AD9DF29D-C92E-484C-94BC-D5599DF8AEFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_TheVariableShop", "06_TheVariableShop\06_TheVariableShop.csproj", "{3A1CA452-D721-4B08-B566-9D42F9B04146}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_TheVariableShop", "06_TheVariableShop\06_TheVariableShop.csproj", "{3A1CA452-D721-4B08-B566-9D42F9B04146}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_TheVariableShopReturns", "07_TheVariableShopReturns\07_TheVariableShopReturns.csproj", "{FC9438B3-C2A6-47AB-9A38-698BD58CB568}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_TheVariableShopReturns", "07_TheVariableShopReturns\07_TheVariableShopReturns.csproj", "{FC9438B3-C2A6-47AB-9A38-698BD58CB568}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_TheTriangleFarmer", "08_TheTriangleFarmer\08_TheTriangleFarmer.csproj", "{EEDFA421-0278-48CA-888E-963CCD34D516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_TheTriangleFarmer", "08_TheTriangleFarmer\08_TheTriangleFarmer.csproj", "{EEDFA421-0278-48CA-888E-963CCD34D516}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_TheThingNamer3000", "05_TheThingNamer3000\05_TheThingNamer3000.csproj", "{A2D205DB-609F-4655-8651-F2B94303231D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_TheThingNamer3000", "05_TheThingNamer3000\05_TheThingNamer3000.csproj", "{A2D205DB-609F-4655-8651-F2B94303231D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_TheFourSistersAndTheDuckbear", "09_TheFourSistersAndTheDuckbear\09_TheFourSistersAndTheDuckbear.csproj", "{80F526F2-420F-42B2-868C-82FB9CAF81AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_TheFourSistersAndTheDuckbear", "09_TheFourSistersAndTheDuckbear\09_TheFourSistersAndTheDuckbear.csproj", "{80F526F2-420F-42B2-868C-82FB9CAF81AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_TheDominionOfKings", "10_TheDominionOfKings\10_TheDominionOfKings.csproj", "{0897CD59-4ACC-4125-B3B3-30AD001C73B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_TheDominionOfKings", "10_TheDominionOfKings\10_TheDominionOfKings.csproj", "{0897CD59-4ACC-4125-B3B3-30AD001C73B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_TheDefenseOfConsolas", "11_TheDefenseOfConsolas\11_TheDefenseOfConsolas.csproj", "{04E168AA-16D5-4E58-8118-D2B1800266C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_TheDefenseOfConsolas", "11_TheDefenseOfConsolas\11_TheDefenseOfConsolas.csproj", "{04E168AA-16D5-4E58-8118-D2B1800266C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_RepairingTheClocktower", "12_RepairingTheClocktower\12_RepairingTheClocktower.csproj", "{B2D873B6-43C8-43E0-BF7E-C85076760D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Watchtower", "13_Watchtower\13_Watchtower.csproj", "{DF93B01C-0CCD-4FD7-A8F4-695FB453E9BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{04E168AA-16D5-4E58-8118-D2B1800266C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04E168AA-16D5-4E58-8118-D2B1800266C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04E168AA-16D5-4E58-8118-D2B1800266C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D873B6-43C8-43E0-BF7E-C85076760D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D873B6-43C8-43E0-BF7E-C85076760D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D873B6-43C8-43E0-BF7E-C85076760D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D873B6-43C8-43E0-BF7E-C85076760D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF93B01C-0CCD-4FD7-A8F4-695FB453E9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF93B01C-0CCD-4FD7-A8F4-695FB453E9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF93B01C-0CCD-4FD7-A8F4-695FB453E9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF93B01C-0CCD-4FD7-A8F4-695FB453E9BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
