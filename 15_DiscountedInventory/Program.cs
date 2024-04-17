@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Please enter your name: ");
+﻿using System.Reflection.Metadata.Ecma335;
+
+Console.WriteLine("Please enter your name: ");
 string name = Console.ReadLine();
 
 Console.WriteLine("Please enter a number from the menu below...");
@@ -32,7 +34,7 @@ if (name == "Johnathan")
         6 => "Canoe costs 100 gold",
         7 => "Food Supplies cost 1 gold",
         8 => "Goodbye..."
-    };
+    };;
 
     Console.WriteLine(response);
 }
