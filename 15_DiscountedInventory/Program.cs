@@ -1,7 +1,7 @@
-﻿using System.Reflection.Metadata.Ecma335;
+using System.Reflection.Metadata.Ecma335;
 
 Console.WriteLine("Please enter your name: ");
-string name = Console.ReadLine();
+string? name = Console.ReadLine();
 
 Console.WriteLine("Please enter a number from the menu below...");
 Console.WriteLine("The following items are available: ");
@@ -15,7 +15,6 @@ Console.WriteLine(@"
     7 - Food Supplies
     8 - Exit
 ");
-
 
 
 string response;
@@ -33,8 +32,9 @@ if (name == "Johnathan")
         5 => "Machette costs 10 gold",
         6 => "Canoe costs 100 gold",
         7 => "Food Supplies cost 1 gold",
-        8 => "Goodbye..."
-    };;
+        8 => "Goodbye...",
+        _ => "Invalid choice" // This is the default case that will be used if none of the other cases match
+    };
 
     Console.WriteLine(response);
 }
@@ -49,7 +49,8 @@ else
         5 => "Machette costs 20 gold",
         6 => "Canoe costs 200 gold",
         7 => "Food Supplies cost 2 gold",
-        8 => "Goodbye..."
+        8 => "Goodbye...",
+        _ => "Invalid choice" // This is the default case that will be used if none of the other cases match
     };
 
     Console.WriteLine(response);
